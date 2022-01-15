@@ -1,8 +1,8 @@
-# Blink-Eye
+# 👋 Blink-Eye
 In this project , we will count the number of blinking eye in a video or webcam.
 
 
-## REQUIREMENTS
+## 👉 REQUIREMENTS
 ``` 
 pip install cv2
 pip install cvzone 
